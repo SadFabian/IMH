@@ -1,0 +1,11 @@
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\bin\Debug\Juego_interactivo.exe.config
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\bin\Debug\Juego_interactivo.exe
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\bin\Debug\Juego_interactivo.pdb
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.csprojResolveAssemblyReference.cache
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.Pantalla_principal.resources
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.Properties.Resources.resources
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.csproj.GenerateResource.Cache
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.csproj.CoreCompileInputs.cache
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.exe
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.pdb
+C:\Users\LenovoT530\Documents\Interaccion_H_m\Proyecto_IMH\Juego_interactivo\Juego_interactivo\obj\Debug\Juego_interactivo.Registro.resources
